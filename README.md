@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abdallah Mushtaha. 👨‍💻<br>Front-end developer with 1+ year of experience in building responsive, high-performance, and visually engaging web applications.<br><br>I specialize in crafting modern UI experiences using React & Next.js, with a strong focus on:<br><br>User Experience (UX)<br><br>Accessibility<br><br>Clean & maintainable code<br><br>Performance-first development<br><br>Location: Cairo, Egypt<br>Status: Open to freelance & innovative projects
+Hi, I'm Abdallah Mushtaha. 👨‍💻<br>Front-end developer with a long of experience in building responsive, high-performance, and visually engaging web applications.<br><br>I specialize in crafting modern UI experiences using React & Next.js, with a strong focus on:<br><br>User Experience (UX)<br><br>Accessibility<br><br>Clean & maintainable code<br><br>Performance-first development<br><br>Location: Cairo, Egypt<br>Status: Open to freelance & innovative projects
 
 
 ## 🌐 Socials:
@@ -12,12 +12,10 @@ Hi, I'm Abdallah Mushtaha. 👨‍💻<br>Front-end developer with 1+ year of ex
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdallah-Mushtaha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Mushtaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdallah-Mushtaha&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdallah-Mushtaha&icon=2&color=9)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
